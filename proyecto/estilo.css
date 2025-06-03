@@ -1,0 +1,22 @@
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: blue;
+}
+
+.style1 {
+    color: chocolate;
+    text-align: justify;
+    
+}
+.style2{
+    color: coral;
+    text-align: center;
+}
+.style3{
+    color: aqua;
+    text-decoration: solid;
+    text-align: right;
+}
